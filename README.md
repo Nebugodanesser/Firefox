@@ -16,9 +16,7 @@
     ln -s /opt/firefox/firefox /usr/local/bin/firefox
     wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linux/firefox.desktop -P /usr/local/share/applications
 
-Монологи:
-
----
+## Монологи
 
  – Это у тебя установлена моя лисичка, понял?
 
@@ -30,6 +28,12 @@
 
  – Понял 😈
 
+---
+
+ – Потом скачиваешь [этот плагин](https://addons.mozilla.org/ru/firefox/addon/vknext/), понял?
+
+ – Понял 😈
+ 
 ---
 
  – Потом делаешь deb-пакет, понял?
