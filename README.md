@@ -10,11 +10,11 @@
 
 Потом заходишь в терминал и пишешь это:
 
-  cd ~/Downloads
-  tar xjf firefox-*.tar.bz2
-  mv firefox /opt
-  ln -s /opt/firefox/firefox /usr/local/bin/firefox
-  wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linux/firefox.desktop -P /usr/local/share/applications
+    cd ~/Downloads
+    tar xjf firefox-*.tar.bz2
+    mv firefox /opt
+    ln -s /opt/firefox/firefox /usr/local/bin/firefox
+    wget https://raw.githubusercontent.com/mozilla/sumo-kb/main/install-firefox-linux/firefox.desktop -P /usr/local/share/applications
 
 Это у тебя установлена моя лисичка, понял? Понял 😈
 
